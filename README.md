@@ -1,4 +1,4 @@
-# tic-tac-toe
+# Tic-Tac-Toe
 I Gede Krisna Ganesha Widhiarta 
 
 Kelas : X TKI 4
